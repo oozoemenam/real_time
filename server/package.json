@@ -1,0 +1,16 @@
+{
+  "name": "real_time",
+  "version": "1.0.0",
+  "description": "Websocket - WebRTC Signaling Server",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node index.ts"
+  },
+  "keywords": ["webrtc", "nodejs", "socket.io", "signaling"],
+  "author": "David O.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.0"
+  }
+}
